@@ -1,0 +1,27 @@
+{
+  "name": "starlight-math",
+  "version": "1.0.0",
+  "description": "it's module containing basic math opration",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ed87/math-module.git"
+  },
+  "keywords": [
+    "math",
+    "sum",
+    "subtract"
+  ],
+  "author": "starlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ed87/math-module/issues"
+  },
+  "homepage": "https://github.com/ed87/math-module#readme"
+}
